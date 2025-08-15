@@ -770,7 +770,7 @@ img {
   margin-bottom: 8px;
 }
 .checkbox {
-  margin-bottom: 16px;
+  margin-bottom: 24px;
 }
 
 .modal-field-wrap {
@@ -841,7 +841,7 @@ img {
   border: none;
 }
 
-.privicy-polity {
+.privacy-policy {
   font: 400 12px / 1.33333 'Roboto', sans-serif;
   text-decoration: underline;
   text-decoration-skip-ink: none;
