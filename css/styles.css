@@ -730,6 +730,7 @@ img {
   text-align: center;
   color: #2e2f42;
   margin-top: 24px;
+
   margin-bottom: 16px;
 }
 
@@ -768,7 +769,7 @@ img {
 .modal-field {
   margin-bottom: 8px;
 }
-.modal-field.checkbox {
+.checkbox {
   margin-bottom: 16px;
 }
 
@@ -845,10 +846,6 @@ img {
   text-decoration: underline;
   text-decoration-skip-ink: none;
   color: #4d5ae5;
-}
-
-.checkbox {
-  margin-bottom: 24px;
 }
 
 .modal-comment:focus {
