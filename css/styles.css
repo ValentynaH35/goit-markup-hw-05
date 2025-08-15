@@ -768,7 +768,7 @@ img {
 .modal-field {
   margin-bottom: 8px;
 }
-.modal-field:last-child {
+.modal-field.checkbox {
   margin-bottom: 16px;
 }
 
